@@ -23,7 +23,7 @@ Built with **Expo React Native**, this app provides an elegant and user-friendly
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/matric-album-2023.git
+git clone https://github.com/abdulazeezbz/GSU-matric-album-2023.git
 cd matric-album-2023
 2. Install Dependencies
 
