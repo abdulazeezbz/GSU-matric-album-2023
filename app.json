@@ -16,14 +16,28 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.abzdevs.matricalbum",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "permissions": [],
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "56ef7465-a4ae-48a2-af34-f96a96c3ec39"
+      }
     }
   }
 }
